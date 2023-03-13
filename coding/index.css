@@ -1,0 +1,30 @@
+Html{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+p{
+   text-align: center; 
+   font-size: 50px;
+    margin:auto;
+}
+#titleBox{
+    display: flex;
+    background-color: #99c9b8;
+    width: 700px;
+    height: 200px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 20px;
+}
+#mainBox{
+    background-color: #79a394;
+    height: auto;
+    width: 1500px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right:auto;
+    
+}
